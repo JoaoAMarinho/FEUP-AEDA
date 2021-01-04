@@ -8,4 +8,4 @@ Weekly exercises as well as some past exams resolutions and the final projetc in
 ### Disclaimer
 This repository, and every other FEUP-COURSE* repos on GitHub correspond to school projects from the respective COURSE. The code on this repo is intended for educational purposes. I do not take any responsibility, liability or whateverity over any code faults, inconsistency or anything else. If you intend on copying most or parts of the code for your school projects, keep in mind that this repo is public, and that your professor might search the web for similar project solutions or whatnot and choose to fail you for copying.
 
-(Credits to Tiago Caldas da Silva && Miguel Boaventura Rodrigues (TiagoCaldaSilva && mikRodrigues , https://github.com/TiagoCaldaSilva && https://github.com/mikRodrigues) for making of the AEDA_BuyNow_Project)
+(Credits to Tiago Caldas da Silva && Miguel Boaventura Rodrigues (TiagoCaldaSilva && mikRodrigues , https://github.com/TiagoCaldaSilva && https://github.com/mikRodrigues) for helping with the development of the AEDA_BuyNow_Project)
