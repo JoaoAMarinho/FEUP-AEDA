@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p06/Tests/counter.cpp
+queue
+-
+cstdlib
+-
+counter.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p06/Tests/counter.h
+exceptions.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p06/Tests/exceptions.h
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p06/Tests/counter.h
+iostream
+-
+queue
+-
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p06/Tests/exceptions.h
+string
+-
+

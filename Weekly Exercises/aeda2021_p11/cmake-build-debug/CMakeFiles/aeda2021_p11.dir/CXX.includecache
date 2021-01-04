@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p11/Tests/disjointSets.h
+vector
+-
+bits/stdc++.h
+-
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p11/Tests/maze.cpp
+maze.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p11/Tests/maze.h
+iostream
+-
+iomanip
+-
+utility
+-
+algorithm
+-
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p11/Tests/maze.h
+disjointSets.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda2021_p11/Tests/disjointSets.h
+

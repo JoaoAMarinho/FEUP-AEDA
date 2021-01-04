@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Utilizador\Clion_Projects\aeda2021_p03
+-- Found Doxygen: C:/Program Files/doxygen/bin/doxygen.exe (found version "1.8.20 (f246dd2f1c58eea39ea3f50c108019e4d4137bd5)") found components: doxygen missing components: dot
+CMake Error: File C:/Users/Utilizador/Clion_Projects/aeda2021_p03/docs/Doxyfile does not exist.
+CMake Error at CMakeLists.txt:24 (configure_file):
+  configure_file Problem configuring file
+
+
+Doxygen build started
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Utilizador/Clion_Projects/aeda2021_p03/cmake-build-debug/CMakeFiles/CMakeOutput.log".

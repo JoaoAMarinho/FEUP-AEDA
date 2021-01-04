@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Box.h
+Object.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Object.h
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Object.h
+iostream
+-
+string
+-
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/ThinTallBox.h
+stack
+-
+Box.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Box.h
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Warehouse.cpp
+Warehouse.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Warehouse.h
+algorithm
+-
+
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Warehouse.h
+queue
+-
+Box.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Box.h
+Object.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/Object.h
+ThinTallBox.h
+D:/Escola/Faculdade/2_Ano/1_Semestre/AEDA/aeda1920_ci2/Tests/ThinTallBox.h
+
