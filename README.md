@@ -1,5 +1,5 @@
 # FEUP-AEDA 2020/2021
-Weekly exercises as well as some past exams resolutions and the final projetc in C++ for the AEDA curricular unit.
+Weekly exercises as well as some past exams resolutions and the final project in C++ for the AEDA curricular unit.
 
 ### Project Infos
 * **Date:** 2nd Year, 1st Semester, 2020/2021
